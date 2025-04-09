@@ -76,6 +76,15 @@ For testing the login functionality, you can use the following credentials:
 - Email: `eve.holt@reqres.in`
 - Password: `cityslicka`
 
+  ## Screenshot
+  ![image](https://github.com/user-attachments/assets/055fefaf-cc81-48e2-ae79-b935954be491)
+  ![image](https://github.com/user-attachments/assets/2a3982e4-f3c3-4855-ab22-f5e9859a29aa)
+  ![image](https://github.com/user-attachments/assets/3482fa30-e0f8-4717-b0b6-b3d9b0afd1ac)
+  ![image](https://github.com/user-attachments/assets/fd147766-75b5-4224-8f14-e979ef92361f)
+  ![image](https://github.com/user-attachments/assets/03e3320e-2a15-425c-a349-ac43f68e8a9f)
+  ![image](https://github.com/user-attachments/assets/a43bafcd-46df-4155-bd5d-1eab06fa2ec8)
+  ![image](https://github.com/user-attachments/assets/9170705a-a4f4-4708-8736-0f4b0688c773)
+
 ## Implementation Notes
 
 - The application stores authentication tokens in localStorage for persistence
